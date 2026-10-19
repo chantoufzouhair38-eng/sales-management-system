@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "key",
+        "price": 10.0,
+        "quantity": 20
+    },
+    {
+        "id": "2",
+        "name": "ecran",
+        "price": 50.0,
+        "quantity": 12
+    },
+    {
+        "id": "3",
+        "name": "telphone",
+        "price": 100.0,
+        "quantity": 20
+    },
+    {
+        "id": "4",
+        "name": "laptop",
+        "price": 150.0,
+        "quantity": 4
+    }
+]
